@@ -1,0 +1,11 @@
+{
+  "org": "pallets",
+  "repo": "actions",
+  "versions": [
+    {
+      "commit": "3255f16f0e8beb235859a5a82035717d5ebcb549",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:24:56.010190+00:00"
+    }
+  ]
+}
