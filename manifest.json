@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets",
+  "repo": "actions",
+  "versions": [
+    {
+      "commit": "3255f16f0e8beb235859a5a82035717d5ebcb549",
+      "parsed_at": "2026-10-11T06:22:36.530054+00:00",
+      "filetree": "filetree/3255f16f0e8beb235859a5a82035717d5ebcb549.nq.gz",
+      "blobs": [
+        "blob/99d8156e4bc8d1305f4352c95f1ee1339fd8c0e9.nq.gz",
+        "blob/d7bc9672fe24078b86e100221d83a14882b0f6cf.nq.gz",
+        "blob/e4653d38d1fd58d85141c9eb10a74773c113feb7.nq.gz",
+        "blob/61eb42d3bd2c625f94c72967da8585c9bb7d6186.nq.gz",
+        "blob/778d5a8070c0d5b2f06819cca7394ed1ceaed517.nq.gz",
+        "blob/23217cba2624dd9d59c4809907450e857e64f4a4.nq.gz",
+        "blob/24e296be4da21d56ea441612a62c17f50d07e0ab.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
