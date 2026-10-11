@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets/actions/commit/3255f16f0e8beb235859a5a82035717d5ebcb549",
       "git:hexsha": "3255f16f0e8beb235859a5a82035717d5ebcb549",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T06:24:56.009811+00:00"
     }
   ]
 }
